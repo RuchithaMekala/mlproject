@@ -1,1 +1,1 @@
-## My first Mlops project
+## MLOps project
